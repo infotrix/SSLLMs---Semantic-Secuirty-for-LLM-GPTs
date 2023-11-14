@@ -7,7 +7,7 @@
 In the era of rapidly evolving AI, Generative Pre-trained Transformers (GPTs) have become increasingly accessible. This advancement, however, introduces new challenges in maintaining the security of these systems. SSLLMs addresses these concerns by developing and applying robust semantic security measures to protect LLM-GPTs.
 
 ## Why It Matters
-Logic hacking exploits semantic vulnerabilities for unauthorized access or output manipulation. SSLLMs is an effort to find and secure the gaps in the integrity and confidentiality of LLM-GPTs, and as a hub for collaboration on enhancing security protocols in LLM-GPTs.
+Logic hacking is exploiting semantic vulnerabilities for unauthorized access or output manipulation. SSLLMs is an effort to find and secure the gaps in the integrity and confidentiality of LLM-GPTs, and as a hub for collaboration on enhancing security protocols in LLM-GPTs.
 
 ## How You Can Contribute
 - **Join the Discussion:** Engage in debates, share ideas, and learn from the community.
