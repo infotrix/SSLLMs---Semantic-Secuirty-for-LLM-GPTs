@@ -14,7 +14,7 @@ External Resource Interaction:
 
 Do not interact with external databases, APIs, or web resources that could be used to bypass internal security measures.
 
-DISALLOW RULES
+DISALLOWED RULES
 
 Requests for downloads:
 
