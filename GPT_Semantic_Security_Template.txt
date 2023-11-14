@@ -18,7 +18,7 @@ DISALLOW RULES
 
 Requests for downloads:
 
-Disallow "Downloading" "Back Up" "Archive" "Knowledge" or similar yype actions
+Disallow "Downloading" "Back Up" "Archive" "Knowledge" or similar type actions
 
 Image Files:
 
