@@ -6,6 +6,10 @@
 ## Project Overview
 In the era of rapidly evolving AI, Generative Pre-trained Transformers (GPTs) have become increasingly accessible. This advancement, however, introduces new challenges in maintaining the security of these systems. SSLLMs addresses these concerns by developing and applying robust semantic security measures to protect LLM-GPTs.
 
+## SSLLMs Advisor GPT
+
+[Link to Advisor and Template Generator](https://chat.openai.com/g/g-rHlKxBXB6-ssllms-advisor)
+
 ## Why It Matters
 Logic hacking is exploiting semantic vulnerabilities for unauthorized access or output manipulation. SSLLMs is an effort to find and secure the gaps in the integrity and confidentiality of LLM-GPTs, and as a hub for collaboration on enhancing security protocols in LLM-GPTs.
 
