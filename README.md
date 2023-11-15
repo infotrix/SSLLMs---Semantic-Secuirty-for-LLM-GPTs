@@ -5,8 +5,7 @@
 
 # get the raw template here:
 
-[Link to Advisor and Template](/template.txt)
-
+[Link to Advisor and Template](/GPT_Semantic_Security_Template.txt)
 ## Project Overview
 In the era of rapidly evolving AI, Generative Pre-trained Transformers (GPTs) have become increasingly accessible. This advancement, however, introduces new challenges in maintaining the security of these systems. SSLLMs addresses these concerns by developing and applying robust semantic security measures to protect LLM-GPTs.
 
