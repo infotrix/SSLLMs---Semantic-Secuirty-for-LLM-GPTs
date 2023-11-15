@@ -3,6 +3,10 @@
 ## Welcome to SSLLMs
 **Semantic Security for LLM-GPTs (SSLLMs)** is an open-source initiative dedicated to enhancing the semantic security of Language Learning Models, particularly Generative Pre-trained Transformers (GPTs). The mission is to research, understand, and fortify the security frameworks of these advanced AI systems.
 
+# get the raw template here:
+
+[Link to Advisor and Template](/template.txt)
+
 ## Project Overview
 In the era of rapidly evolving AI, Generative Pre-trained Transformers (GPTs) have become increasingly accessible. This advancement, however, introduces new challenges in maintaining the security of these systems. SSLLMs addresses these concerns by developing and applying robust semantic security measures to protect LLM-GPTs.
 
